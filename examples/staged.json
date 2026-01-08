@@ -1,1 +1,38 @@
-
+[
+  {
+    "record_id": "TXN_001",
+    "fiscal_year": "FY2025",
+    "transaction_date": "2025-01-15",
+    "department_id": "PLANNING_BUDGET",
+    "account_code": "SALARIES",
+    "transaction_type": "ACTUAL",
+    "amount": 235000,
+    "currency": "USD",
+    "source_system": "ERP_FINANCE",
+    "ingested_at": "2025-01-16T03:14:22Z"
+  },
+  {
+    "record_id": "TXN_002",
+    "fiscal_year": "FY2025",
+    "transaction_date": "2025-01-20",
+    "department_id": "PLANNING_BUDGET",
+    "account_code": "SALARIES",
+    "transaction_type": "ACTUAL",
+    "amount": 237500,
+    "currency": "USD",
+    "source_system": "ERP_FINANCE",
+    "ingested_at": "2025-01-21T02:58:10Z"
+  },
+  {
+    "record_id": "BUD_001",
+    "fiscal_year": "FY2025",
+    "transaction_date": "2025-01-01",
+    "department_id": "PLANNING_BUDGET",
+    "account_code": "SALARIES",
+    "transaction_type": "BUDGET",
+    "amount": 450000,
+    "currency": "USD",
+    "source_system": "BUDGET_PLANNING",
+    "ingested_at": "2024-12-15T09:00:00Z"
+  }
+]
