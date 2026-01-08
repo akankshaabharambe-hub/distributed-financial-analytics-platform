@@ -1,1 +1,40 @@
-
+{
+  "records": [
+    {
+      "date": "2025-01-05",
+      "department": "Planning & Budget",
+      "account": "OPEX - Software",
+      "funding_source": "Internal",
+      "amount": "$1,245.50",
+      "transaction_type": "actual",
+      "source_system": "erp_export"
+    },
+    {
+      "date": "01/08/2025",
+      "department": "Research Computing",
+      "account": "CAPEX - Hardware",
+      "funding_source": "Grant",
+      "amount": "32000",
+      "transaction_type": "actual",
+      "source_system": "csv_upload"
+    },
+    {
+      "date": "2025-01-12",
+      "department": "Student Services",
+      "account": "OPEX - Contractors",
+      "funding_source": "External",
+      "amount": 7800,
+      "transaction_type": "accrual",
+      "source_system": "erp_export"
+    },
+    {
+      "date": "2025-01-12",
+      "department": "Student Services",
+      "account": "OPEX - Contractors",
+      "funding_source": "External",
+      "amount": "",
+      "transaction_type": "actual",
+      "source_system": "erp_export"
+    }
+  ]
+}
