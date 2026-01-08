@@ -1,1 +1,35 @@
-
+[
+  {
+    "fiscal_year": "FY2025",
+    "month": "2025-01",
+    "department_id": "PLANNING_BUDGET",
+    "account_code": "SALARIES",
+    "budget_amount": 450000,
+    "actual_amount": 472500,
+    "variance_amount": 22500,
+    "variance_pct": 0.05,
+    "status": "OVER_BUDGET"
+  },
+  {
+    "fiscal_year": "FY2025",
+    "month": "2025-01",
+    "department_id": "RESEARCH_COMPUTING",
+    "account_code": "INFRASTRUCTURE",
+    "budget_amount": 320000,
+    "actual_amount": 298400,
+    "variance_amount": -21600,
+    "variance_pct": -0.0675,
+    "status": "UNDER_BUDGET"
+  },
+  {
+    "fiscal_year": "FY2025",
+    "month": "2025-02",
+    "department_id": "PLANNING_BUDGET",
+    "account_code": "SALARIES",
+    "budget_amount": 450000,
+    "actual_amount": 461200,
+    "variance_amount": 11200,
+    "variance_pct": 0.0249,
+    "status": "OVER_BUDGET"
+  }
+]
