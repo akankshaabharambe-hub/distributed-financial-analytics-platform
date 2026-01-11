@@ -73,10 +73,11 @@ Each layer is intentionally isolated to support independent evolution and testin
 This repository supports local execution using sample inputs to demonstrate pipeline behavior
 without requiring access to BigQuery or cloud credentials.
 
+```text
 python -m data_pipeline.ingest –input examples/sample_input.json –output examples/staged.json
 python -m data_pipeline.validate –input examples/staged.json
 python -m data_pipeline.transform –input examples/staged.json –output examples/analytics_rows.json
-
+```
 ---
 
 ## Scope & Constraints
