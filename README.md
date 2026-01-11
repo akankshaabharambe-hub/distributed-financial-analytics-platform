@@ -12,7 +12,7 @@ BigQuery tables, and exposes insights through a reporting UI and a conversationa
 
 ## What This Project Demonstrates
 
-This project reflects **real-world data and software engineering practices**, not a toy or academic pipeline.
+This project reflects **real-world data and software engineering practices**
 
 ### Software Engineering
 - Clear separation between ingestion, validation, transformation, and serving layers
